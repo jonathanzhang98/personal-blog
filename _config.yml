@@ -8,11 +8,11 @@ subtitle: At the bottom of the well, it is destined to see only the sky at the w
           However, the starting point only affects the process of reaching your peak and does not determine the height you reach.
 author: Jonathan Zhang
 language: en
-timezone: Central Daylight Time
+timezone: America/Chicago
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://jonathanzhang98.github.io       # Note: don't forget to modify the CNAME file to your url
+url: https://jonathanzhang98.github.io/      # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -178,8 +178,8 @@ path: baidusitemap.xml
 deploy:
   type: git
   repo:
-      github: 
-      coding:
+      github: https://github.com/jonathanzhang98/jonathanzhang98.github.io
+      # coding: coding.repository.address
   branch: master
 
 ## share
