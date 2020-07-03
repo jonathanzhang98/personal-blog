@@ -11,7 +11,7 @@ categories:
 - hexo
 ---
 # hexo-theme-snail
-[View Hexo-Theme-Snail Sources On Github &#10174; ](https://github.com/dusign/hexo-theme-snail)
+[View Hexo-Theme-Snail Sources On Github &#10174;](https://github.com/dusign/hexo-theme-snail)
 
 [View Live Super Snail Blog &#10174;](https://www.dusign.net)
 
